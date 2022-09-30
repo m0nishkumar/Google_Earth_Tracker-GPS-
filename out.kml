@@ -1,0 +1,1 @@
+<kml><Document><Placemark><name>Location1</name><description>Description1</description><Point><coordinates>-120,45,0</coordinates></Point></Placemark><Placemark><name>Location2</name><description>Description2</description><Point><coordinates>60,-45,0</coordinates></Point></Placemark></Document></kml>
